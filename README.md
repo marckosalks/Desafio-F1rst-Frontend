@@ -77,4 +77,4 @@ Finalmente, o método `atualizarMapa` que você construiu no arquivo `map.ts` en
 1. Digita CEP ➔ 2. Chama API (`localhost:8080`) ➔ 3. Pega nome da Rua ➔ 4. Chama API (`Nominatim`) ➔ 5. Pega Lat/Lon ➔ 6. Manda o Mapa pular pra lá!
 
 > [!TIP]
-> **Já deixei tudo pronto para você!** Pode acessar a página e testar a busca do CEP. O mapa vai aparecer (adicionei CSS para ele ter altura) e a marcação vai funcionar. Não se esqueça de que o seu servidor backend (`localhost:8080`) precisa estar rodando!
+> ** Precisa rodar o servidor backend em docker  (`localhost:8080/v1/consulta`)!
