@@ -1,0 +1,31 @@
+.main-header {
+  background-color: #ec0000;
+  color: white;
+  padding: 15px 20px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  cursor: pointer;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.logo {
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+  /* Simulação de um logo */
+}
+
+h1 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600;
+  font-family: sans-serif;
+}
